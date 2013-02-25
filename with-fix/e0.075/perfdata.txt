@@ -1,0 +1,668 @@
+waiting for 1 second sample...
+
+### RECORD    1 >>> lab-p5e-vm-do <<< (1361814252.001) (Mon Feb 25 10:44:12 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     9    0    4    0    0    0     0   87
+      1     1    0    3    0    0    0     0   95
+      2     1    0    0    0    0    0     0   98
+      3     1    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    2 >>> lab-p5e-vm-do <<< (1361814253.001) (Mon Feb 25 10:44:13 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     2    0    2    0    0    0     0   96
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    3 >>> lab-p5e-vm-do <<< (1361814254.001) (Mon Feb 25 10:44:14 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     4    0    1    0    0    0     0   95
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    4 >>> lab-p5e-vm-do <<< (1361814255.001) (Mon Feb 25 10:44:15 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     3    0    2    0    0    0     0   95
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    5 >>> lab-p5e-vm-do <<< (1361814256.001) (Mon Feb 25 10:44:16 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     4    0    4    0    0    0     0   92
+      1     0    0    0    0    0    0     0  100
+      2     0    0    1    0    0    0     0   98
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      80     15    5   16      16     0     8      8    3
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    6 >>> lab-p5e-vm-do <<< (1361814257.001) (Mon Feb 25 10:44:17 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     9    0    5    0    0    0     0   86
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    7 >>> lab-p5e-vm-do <<< (1361814258.001) (Mon Feb 25 10:44:18 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    12    0    1    0    0    0     0   87
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    8 >>> lab-p5e-vm-do <<< (1361814259.001) (Mon Feb 25 10:44:19 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     9    0    8    0    0    0     0   83
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    9 >>> lab-p5e-vm-do <<< (1361814260.001) (Mon Feb 25 10:44:20 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     7    0    7    0    0    0     0   86
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   10 >>> lab-p5e-vm-do <<< (1361814261.001) (Mon Feb 25 10:44:21 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    16    0    3    0    0    0     0   81
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    1    0    0     0   99
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      92     19    4   23      23     0     7      5    1
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   11 >>> lab-p5e-vm-do <<< (1361814262.001) (Mon Feb 25 10:44:22 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    13    0    8    0    0    0     0   79
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   12 >>> lab-p5e-vm-do <<< (1361814263.001) (Mon Feb 25 10:44:23 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    11    0   11    0    0    0     0   78
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   13 >>> lab-p5e-vm-do <<< (1361814264.001) (Mon Feb 25 10:44:24 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    23    0   10    0    0    0     0   67
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   14 >>> lab-p5e-vm-do <<< (1361814265.001) (Mon Feb 25 10:44:25 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    21    0   16    0    0    0     0   63
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   15 >>> lab-p5e-vm-do <<< (1361814266.001) (Mon Feb 25 10:44:26 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    21    0   15    0    0    0     0   64
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    4    0    0     0   95
+      3     0    0    1    0    0    0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      40      7    3   13      13     0    10     10    2
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   16 >>> lab-p5e-vm-do <<< (1361814267.001) (Mon Feb 25 10:44:27 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    32    0   18    0    0    0     0   50
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   17 >>> lab-p5e-vm-do <<< (1361814268.001) (Mon Feb 25 10:44:28 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    29    0   15    0    0    0     0   56
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   18 >>> lab-p5e-vm-do <<< (1361814269.001) (Mon Feb 25 10:44:29 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    30    0   14    0    0    0     0   56
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   19 >>> lab-p5e-vm-do <<< (1361814270.001) (Mon Feb 25 10:44:30 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    25    0   16    0    0    0     0   59
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   20 >>> lab-p5e-vm-do <<< (1361814271.001) (Mon Feb 25 10:44:31 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    21    0   14    0    0    0     0   65
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    1    0    0     0   98
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      16      2    2    8       8     0    10     10    1
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   21 >>> lab-p5e-vm-do <<< (1361814272.001) (Mon Feb 25 10:44:32 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    34    0   10    0    0    0     0   56
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   22 >>> lab-p5e-vm-do <<< (1361814273.001) (Mon Feb 25 10:44:33 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    39    0   20    0    0    0     0   41
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   23 >>> lab-p5e-vm-do <<< (1361814274.001) (Mon Feb 25 10:44:34 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    34    0   10    0    0    0     0   56
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    1    0    0    0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   24 >>> lab-p5e-vm-do <<< (1361814275.001) (Mon Feb 25 10:44:35 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    33    0   19    0    0    0     0   48
+      1     0    0    1    0    0    0     0   98
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   25 >>> lab-p5e-vm-do <<< (1361814276.001) (Mon Feb 25 10:44:36 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    43    0   19    0    0    1     0   37
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    1    0    0     0   99
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      16      2    2    8       8     0     5      5    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   26 >>> lab-p5e-vm-do <<< (1361814277.001) (Mon Feb 25 10:44:37 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    32    0   20    0    0    1     0   47
+      1     0    0    0    0    0    0     0  100
+      2     1    0    0    0    0    0     0   99
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   27 >>> lab-p5e-vm-do <<< (1361814278.001) (Mon Feb 25 10:44:38 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    28    0   21    0    0    0     0   51
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    2    0    0    0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   28 >>> lab-p5e-vm-do <<< (1361814279.001) (Mon Feb 25 10:44:39 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    49    0   17    0    0    0     0   34
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   29 >>> lab-p5e-vm-do <<< (1361814280.001) (Mon Feb 25 10:44:40 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    50    0   19    0    0    4     0   27
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   30 >>> lab-p5e-vm-do <<< (1361814281.001) (Mon Feb 25 10:44:41 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    47    0   22    0    0    4     0   27
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0   99
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      16      2    2    8       8     0     5      5    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   31 >>> lab-p5e-vm-do <<< (1361814282.001) (Mon Feb 25 10:44:42 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    58    0   23    0    0    1     0   18
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   32 >>> lab-p5e-vm-do <<< (1361814283.001) (Mon Feb 25 10:44:43 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    53    0   26    0    0    0     0   21
+      1     0    0    1    0    0    1     0   97
+      2     0    0    0    0    0    0     0  100
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   33 >>> lab-p5e-vm-do <<< (1361814284.001) (Mon Feb 25 10:44:44 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    50    0   30    0    0    0     0   20
+      1     0    0    0    0    0    0     0  100
+      2     0    0    0    0    0    0     0  100
+      3     0    0    1    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   34 >>> lab-p5e-vm-do <<< (1361814285.001) (Mon Feb 25 10:44:45 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    53    0   32    0    0    1     0   14
+      1     0    0    0    0    0    0     0  100
+      2     1    0    0    0    0    0     0   98
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   35 >>> lab-p5e-vm-do <<< (1361814286.001) (Mon Feb 25 10:44:46 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    49    0   28    0    0    0     0   23
+      1     0    0    0    0    0    5     0   95
+      2     0    0    0    1    0    0     0   98
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0      28      3    4    7       7     0    10      7    2
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   36 >>> lab-p5e-vm-do <<< (1361814287.001) (Mon Feb 25 10:44:47 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    49    0   39    0    0    0     0   12
+      1     0    0    0    0    0    2     0   98
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   37 >>> lab-p5e-vm-do <<< (1361814288.001) (Mon Feb 25 10:44:48 2013) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    51    0   23    0    0    0     0   26
+      1     0    0    0    0    0    1     0   99
+      2     0    0    0    0    0    0     0  100
+      3     0    0    0    0    0    0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdb              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdc              0      0    0    0       0      0    0    0       0     0     0      0    0
+sdd              0      0    0    0       0      0    0    0       0     0     0      0    0
+sde              0      0    0    0       0      0    0    0       0     0     0      0    0
+Shutting down in response to signal TERM on lab-P5E-VM-DO...
