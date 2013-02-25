@@ -1,0 +1,14 @@
+# prefork MPM
+# StartServers: number of server processes to start
+# MinSpareServers: minimum number of server processes which are kept spare
+# MaxSpareServers: maximum number of server processes which are kept spare
+# MaxClients: maximum number of server processes allowed to start
+# MaxRequestsPerChild: maximum number of requests a server process serves
+<IfModule prefork.c>
+StartServers        100 
+MinSpareServers     100 
+MaxSpareServers     100
+ServerLimit        1000
+MaxClients         1000
+MaxRequestsPerChild  0
+</IfModule>
